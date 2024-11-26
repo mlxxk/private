@@ -1,0 +1,35 @@
+.parent{
+    display: flex;
+    width: 1000px;
+    height: 800px;
+    
+}
+.ab{
+    
+    height: 800px;
+    width: 650px;
+}
+.dd{
+    background-color: green;
+    height: 350px;
+    width: 650px;
+}
+.ee{
+    width: 50%;
+}
+.cc{
+    background-color: blueviolet;
+    height: 125px;
+}
+.ww{
+
+}
+.rr{
+    width: 50%;
+}
+.ac{
+    background-color: blue;
+    height: 800px;
+    width: 350px;
+}
+
